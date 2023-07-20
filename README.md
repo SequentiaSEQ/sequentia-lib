@@ -32,5 +32,5 @@ The below examples are implemented as integration tests (as in [bitcoinjs-lib](h
 ## Bundle
 
 ```sh
-$ browserify src/index.js --standalone liquid > bundle.js
+$ browserify src/index.js --standalone Seq > bundle.js
 ```
