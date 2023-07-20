@@ -1,4 +1,4 @@
-# LiquidJS
+# SEQLibs
 
 [![Build Status](https://travis-ci.org/vulpemventures/liquidjs-lib.svg?branch=master)](https://travis-ci.org/vulpemventures/liquidjs-lib)
 
