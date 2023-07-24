@@ -1,5 +1,5 @@
 {
-  "name": "liquidjs-lib",
+  "name": "sequentiajs-lib",
   "version": "6.0.2-liquid.28",
   "description": "Client-side Liquid JavaScript library",
   "main": "./src/index.js",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vulpemventures/liquidjs-lib.git"
+    "url": "https://github.com/vulpemventures/sequentia-lib.git"
   },
   "files": [
     "src"
