@@ -4,7 +4,7 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-The following library forks `bitcoinjs/bitcoinjs-lib` and contains modifications that are necessary for support of elements-based blockchains such as [Blockstream Liquid](https://blockstream.com/liquid)
+The following library forks `bitcoinjs/bitcoinjs-lib` and contains modifications that are necessary for support of elements-based blockchains such as [Blockstream Liquid](https://sequentia.io)
 
 Released under the terms of the [MIT LICENSE](LICENSE).
 
