@@ -34,3 +34,8 @@ The below examples are implemented as integration tests (as in [bitcoinjs-lib](h
 ```sh
 $ browserify src/index.js --standalone Seq > bundle.js
 ```
+
+## Roadmap
+
+- [ ] Add SEQ Asset
+- [ ] POS
