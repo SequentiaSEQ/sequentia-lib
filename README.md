@@ -39,3 +39,4 @@ $ browserify src/index.js --standalone Seq > bundle.js
 
 - [ ] Add SEQ Asset
 - [ ] POS
+- [ ] Anchor
